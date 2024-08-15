@@ -8,7 +8,7 @@ android {
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.MahsaNet.NikaNG"
+        applicationId = "com.MahsaNet.vpnCrypto"
         minSdk = 21
         targetSdk = 34
         versionCode = 579
