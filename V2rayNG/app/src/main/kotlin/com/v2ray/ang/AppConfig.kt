@@ -101,14 +101,14 @@ object AppConfig {
     const val v2rayNGPrivacyPolicy = "https://raw.githubusercontent.com/2dust/v2rayNG/master/CR.md"
     const val PromotionUrl = "aHR0cHM6Ly85LjIzNDQ1Ni54eXovYWJjLmh0bWw="
     const val GeoUrl = "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/"
-    const val TgChannelUrl = "https://t.me/github_2dust"
-    const val DelayTestUrl = "https://www.gstatic.com/generate_204"
-    const val DelayTestUrl2 = "https://www.google.com/generate_204"
+    const val TgChannelUrl = "https://t.me/vpnCrypto_channel"
+    const val DelayTestUrl = "http://www.msftconnecttest.com/connecttest.txt"
+    const val DelayTestUrl2 = "http://cp.cloudflare.com/"
 
     /** DNS server addresses. */
-    const val DNS_PROXY = "1.1.1.1"
-    const val DNS_DIRECT = "1.1.1.1"
-    const val DNS_VPN = "1.1.1.1"
+    const val DNS_PROXY = "8.8.8.8"
+    const val DNS_DIRECT = "8.8.8.8"
+    const val DNS_VPN = "8.8.8.8"
 
     /** Ports and addresses for various services. */
     const val PORT_LOCAL_DNS = "10853"
